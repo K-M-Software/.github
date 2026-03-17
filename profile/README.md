@@ -1,8 +1,8 @@
-# OmniStruo
+# KMSoft
 
 **Building Structure for Every Solution.**
 
-OmniStruo (derived from Latin Omni "all" + Struo "to build") is a development organization dedicated to engineering comprehensive digital solutions. We specialize in bridging the gap between complex requirements and clean execution.
+KMSoft is a development organization dedicated to engineering comprehensive digital solutions. We specialize in bridging the gap between complex requirements and clean execution.
 
 Our focus is twofold: crafting bespoke software tailored to unique client needs, and maintaining a suite of powerful helper utilities that streamline development workflows.
 
